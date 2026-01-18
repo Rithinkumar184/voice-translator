@@ -1,0 +1,6 @@
+SpeechRecognition==3.10.0
+gTTS==2.4.0
+pygame==2.5.2
+PyAudio==0.2.14
+requests
+googletrans==4.0.0
